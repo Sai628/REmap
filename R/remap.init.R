@@ -28,7 +28,8 @@ remap.init = function(){
   ### initial for echarts Bmap
   htmltools::tag("script",list(
       type='text/javascript',
-      src = 'http://lchiffon.github.io/reveal_slidify/echarts/require/main.js')),
+      # src = 'http://lchiffon.github.io/reveal_slidify/echarts/require/main.js')),
+      src = 'http://orl0h3kpu.bkt.clouddn.com/echarts/require/main.js')),
   
   htmltools::tag("script",list(
     type='text/javascript',

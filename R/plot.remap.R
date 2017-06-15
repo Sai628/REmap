@@ -80,7 +80,10 @@ local.plot = function(object,file_name){
                   "./js/jquery.min.js",
                   content)
 
-    content = sub("http://lchiffon.github.io/reveal_slidify/echarts/require",
+    # content = sub("http://lchiffon.github.io/reveal_slidify/echarts/require",
+    #               "./js",
+    #               content)
+    content = sub("http://orl0h3kpu.bkt.clouddn.com/echarts/require",
                   "./js",
                   content)
   }

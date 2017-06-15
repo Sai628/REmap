@@ -388,7 +388,7 @@ html.data.B = list(head = "<html>
                 packages: [
                 {
                 name: 'BMap',
-                location: 'http://lchiffon.github.io/reveal_slidify/echarts/require',
+                location: 'http://orl0h3kpu.bkt.clouddn.com/echarts/require',
                 main: 'main'
                 }
                 ]
